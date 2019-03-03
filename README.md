@@ -11,4 +11,5 @@ See [here](https://commitlogs.com/2016/09/03/how-to-build-blog-with-hexo/).
 ```
 $ hexo new post <title>
 $ sublime source/_posts/<title>.md
+$ hexo clean
 $ hexo deploy -g
