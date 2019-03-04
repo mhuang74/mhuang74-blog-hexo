@@ -94,6 +94,17 @@ search:
 
 ## Themes: https://hexo.io/themes/
 theme: clean-blog
+theme_config:
+  menu:
+    Home: /
+    Archives: /archives
+    Tags: /tags
+    Categories: /categories
+    Github:
+      url: https://www.github.com/mhuang74
+      icon: github    
+  menu_title: Michael S. Huang
+  github_url: https://www.github.com/mhuang74
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
